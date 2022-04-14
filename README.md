@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @benol5en
-- 👀 I’m interested in PowerShell, MSP automation, network security, less reactive and more proactive support
-- 🌱 I’m currently learning how to music more, how to github, how to document a circle in my front yard
-- 💞️ I’m looking to collaborate on PowerShell for MSP and rmm alternatives to CW/Kaseya
-- 📫 How to reach me: ben@graemouse.com 253-777-0763
+- 👀 I’m interested in music, video, performance art, conceptual art, poetry, weird little things, "good" public art
+- 🌱 I’m currently learning how to music more, how to git/hub, how to document a circle in my front yard
+- 💞️ I’m looking to collaborate on art projects that keep me up at night and maybe help people/society in some way
+- 📫 How to reach me: github@benolsen.com 253-867-5309
 
 <!---
 benol5en/benol5en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
