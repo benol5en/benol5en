@@ -7,7 +7,6 @@ IT engineer by trade, artist by habit. I spent 25+ years fixing things for small
 - [Ponce de Leon Creek](https://github.com/benol5en/poncecreek): a website for my neighbors along a little salmon creek, with an animated history map that runs from 80 million years ago to today.
 - [concordance](https://github.com/benol5en/concordance): a timeline of everything heard and seen in a film. Query it, get a new cut.
 - [AI Things Considered](https://github.com/benol5en/AI-Things-Considered): All Things Considered as a daily comic strip.
-- A Claude-led agent system with shared, self-hosted memory, running across 7 machines and a VPS. It's private, but ask me about it.
 
 **👀 Interested in** music, video, performance art, conceptual art, poetry, weird little things, "good" public art.
 
